@@ -1,0 +1,56 @@
+.navbar{
+    background: linear-gradient(97.82deg, #0003AA 14.08%, #5B0369 134.44%)!important;
+    }
+    .hero {
+        display: flex;
+        padding: 50px;
+        background: linear-gradient(97.82deg, #0003AA 14.08%, #5B0369 134.44%)!important;
+        color: white;
+    }
+    
+    .hero-text {
+        text-align: left;
+        flex: 1;
+       
+    }
+    
+    .hero-image {
+        flex: 1;
+        padding-left: 200px;
+    }
+    
+    .hero-image img {
+        max-width: 100%;
+        height: auto;
+    }
+    .container{
+        flex:1;
+        text-align: center;
+        font-size: medium;
+        
+    }
+    .card-body{
+        text-align: center;
+    }
+    .col-md-12{
+        text-align: left;
+    }
+    .col-md-6{
+        text-align: left;
+    }
+    footer {
+        padding: 20px;
+        background-color: #0d3b66;
+        color: white;
+        text-align: center;
+    }
+    
+    .footer-links a {
+        color: white;
+        margin: 100px;
+        text-decoration: none;
+    }
+    
+    .footer-bottom {
+        margin-top: 20px;
+    }
